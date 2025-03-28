@@ -1,0 +1,7 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.dependency.syncWithFolderExplorer": true,
+    "java.dependency.packagePresentation": "flat",
+    "maven.view": "hierarchical"
+}
